@@ -4,7 +4,7 @@ pragma solidity ^0.8.0;
 import "./Ownable.sol";
 import "./IERC20.sol";
 
-contract TimeLockedGMTContract is Ownable {
+contract TimeLockedKAPContract is Ownable {
 
   uint256 private _totalSupply;
   uint256 private _lockedSupply;
